@@ -23,9 +23,12 @@ To run the forecasting model:**
 
 Ensure all datasets are placed in the /content/drive/MyDrive/Crime Datasets/ directory.
 Execute the Jupyter notebook Crime_Rate_Prediction_using_Facebook_Prophet.ipynb to see the analysis and forecasting steps.
-Features
-**Data Cleaning:** Scripts for preprocessing the raw crime data.
-**Visualization:** Use of matplotlib and seaborn for graphical representation of crime trends.
-**Forecasting:** Application of the Prophet library to predict future crime rates based on historical data.
+**Features**
+**Data Cleaning:** 
+Scripts for preprocessing the raw crime data.
+**Visualization:** 
+Use of matplotlib and seaborn for graphical representation of crime trends.
+**Forecasting:** 
+Application of the Prophet library to predict future crime rates based on historical data.
 **Contributing**
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
